@@ -1,0 +1,6 @@
+PONTEIROS;
+operadores de endereços;
+atribuição de endereço;
+
+&variable = memory address from variable;
+
